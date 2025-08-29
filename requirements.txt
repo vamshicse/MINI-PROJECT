@@ -1,0 +1,40 @@
+dash
+flask
+plotly
+pandas
+requests
+scikit-learn
+joblib
+
+
+# Data Wrangling
+### Import The Libraries, Load The Dataset & Wrangle it:
+### Extract The Independent & Dependent Variables:
+# Exploratory Data Analysis
+### Feature Distribution & Correlation:
+# Training & Test Splitting Data
+# Machine Learning Algorithms
+## Baseline Model
+## Select & Train a Model
+## 1. Multivariate Linear Regression (MLR)
+## 2. Multi-layer Perceptron Regressor (Neural Network)
+## 3. KNeighbors Regressor (KNN)
+## 4. Ridge Regression
+### Testing Different Parameters:
+### Parameter 1 (alpha = 1)
+### Parameter 2 (alpha = 25)
+## 5. Random Forest Regressor
+## 6. Support Vector Machines
+### Testing Different Parameters:
+### Parameter 1 (kernel = "linear")
+### Parameter 2 (kernel = "rbf")
+## Fine-tune The Models
+### Random Forest Regressor
+### Support Vector Machine ('rbf' kernel)
+## Present The Solution (Evaluate On The Test Set)
+### Using Random Forest Regressor (Not Tweaked)
+## Communicate Results
+### Linear Equation of My Model
+### Top Coefficients for The Model
+### Model Predictions (Random Forest Regressor Model)
+### Compare The Coefficients of The Ridge & Linear Regression Model
